@@ -1,4 +1,4 @@
-# Pull-in-Obsidian
+# Backup-in-Obsidian
 
 # Obsidian Backup to Dropbox
 This project provides a simple console application that automatically compresses your Obsidian vault into a .zip file and uploads it to your Dropbox account. This tool helps you keep your notes and files safe in the cloud with minimal effort.
